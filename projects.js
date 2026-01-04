@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "Sales Analysis",
+    title: "Ecommerce Sales Analysis",
     description: "Project description here...",
     github: "https://github.com/username/sales-analysis",
     images: ["ecommerce_sales_analysis.png"], // الصور في root
@@ -14,4 +14,5 @@ const projects = [
     excel: "online_retail_II.xlsx" // ملف Excel في root
   },
 ];
+
 
